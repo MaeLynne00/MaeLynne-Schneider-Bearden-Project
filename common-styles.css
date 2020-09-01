@@ -1,0 +1,13 @@
+html {
+    color: #c7c9d3;
+    background: linear-gradient(to bottom,#4c4f5a 4.26%,#131417  84.84%);
+    font-family: 'Lato', sans-serif;
+    height: 100%;
+    
+    
+}
+
+body {
+    margin: 0px;
+    padding: 0px;
+}
